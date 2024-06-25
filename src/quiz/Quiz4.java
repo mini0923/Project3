@@ -12,7 +12,7 @@ public class Quiz4 {
 		double avgScore = (totalScore / 3.0);
 		
 		System.out.println("세 과목의 총점은 : " + totalScore);
-		System.out.printf("세 과목의 평균은 : "+ "%.1f" , avgScore);
+		System.out.println("세 과목의 평균은 : "+  avgScore);
 		
 	}
 
