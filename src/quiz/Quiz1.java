@@ -1,9 +1,8 @@
-package Quiz;
+package quiz;
 
 public class Quiz1 {
 
 	public static void main(String[] args) {
-		
 		int num = -10;						// -10
 		int result = +num ;			// -10
 		
@@ -12,7 +11,7 @@ public class Quiz1 {
 		
 		System.out.println(result);
 		System.out.println(result2);
-		
+
 	}
 
 }
