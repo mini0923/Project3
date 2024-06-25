@@ -6,9 +6,9 @@ public class Ex6 {
 
 		boolean result1 = (5 > 0) && (10 > 0);		// true && true
 		boolean result2 = (5 > 0) && (10 < 0);		// true && false
-		boolean result3 = (5 > 0) || (10 > 0);			// true || true
-		boolean result4 = (5 > 0) || (10 < 0);			// true || false
-		boolean result5 = !(5 > 0); 								// !(true) -> false
+		boolean result3 = (5 > 0) || (10 > 0);		// true || true
+		boolean result4 = (5 > 0) || (10 < 0);		// true || false
+		boolean result5 = !(5 > 0); 						// !(true) -> false
 		
 		System.out.println(result1);
 		System.out.println(result2);
@@ -19,5 +19,4 @@ public class Ex6 {
 		
 
 	}
-
 }

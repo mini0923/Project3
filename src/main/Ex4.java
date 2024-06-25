@@ -8,9 +8,7 @@ public class Ex4 {
 		int engScore = 70;
 		
 		int totalScore = mathScore + engScore ;
-		
-		System.out.println(totalScore);
-		
+
 		// 평균 점수 계산
 		// 1. int 형 변수에 결과를 저장하고 2로 나누기. 
 		int avgScore = totalScore / 2;			// int / int
